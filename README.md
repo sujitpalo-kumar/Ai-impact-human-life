@@ -32,7 +32,7 @@ The impact of AI on human life is multifaceted, presenting both opportunities an
 Summary of Outcomes:
 
 The impact of AI on human life is transforming societies in unprecedented ways. Positive outcomes include increased productivity, improved healthcare, enhanced user experiences, and personalized education. However, challenges related to job displacement, data privacy, and ethical considerations demand careful attention. As AI continues to evolve, it is crucial for policymakers, businesses, and individuals to collaborate in harnessing its potential while mitigating potential pitfalls, ensuring a future where AI augments human capabilities rather than supplanting them.
-prompt-2
+# prompt-2
 Create an essay about the Impact of AI on Human Life with a title, introduction, mechanism (how it affects human life), and conclusion with its summary and results should be  simple and brief.
 ChatGPT
 Title: The Impact of AI on Human Life
@@ -73,7 +73,8 @@ Healthcare Advancements: AI aids in early diagnosis and personalized treatment, 
 Ethical Considerations: Addressing ethical concerns is crucial for responsible AI development and societal well-being.
 
 Learning and Education: AI-driven personalized learning transforms education, empowering individuals with relevant skills for the future.
-Analysis
+
+## Analysis
 Prompt 1 is an essay with a comprehensive analysis of the impact of AI on human life. It covers various aspects of how AI affects human existence, including automation and job disruption, healthcare advancements, enhanced personalization, ethical concerns, and improved education.
 
 On the other hand, Prompt 2 presents a more concise and straightforward essay. It briefly discusses how AI influences human life through automation and efficiency, personalization and user experience, healthcare advancements, ethical considerations, and learning and education.
